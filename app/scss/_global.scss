@@ -4,8 +4,6 @@ html{
 html,
 body {
     height: 100%;
-    position: relative;
-    overflow-x: hidden;
 }
 
 *,
@@ -31,6 +29,9 @@ body{
     line-height: 24px;
     color: $text;
     font-weight: 400;
+    
+    position: relative;
+    min-width: 320px;
 }
 .wrapper {
 	display: flex;

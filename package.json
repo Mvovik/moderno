@@ -10,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "@fancyapps/fancybox": "^3.5.7",
+    "animate.css": "^3.7.2",
     "browser-sync": "^2.26.7",
     "cssmin": "^0.4.3",
     "gulp": "^4.0.2",
@@ -24,7 +25,8 @@
     "normalize.css": "^8.0.1",
     "rateyo": "^2.3.5",
     "rename": "^1.0.4",
-    "slick-carousel": "^1.8.1"
+    "slick-carousel": "^1.8.1",
+    "wow.js": "^1.2.2"
   },
   "dependencies": {
     "gulp-autoprefixer": "^7.0.1",
